@@ -17,7 +17,7 @@ Criar um crossover com alto nível de detalhe unindo universo esportivo (corrida
 
 ## 🏆 Resultados
 
-![Maratona dos Ancestrais](NOME_DO_SEU_ARQUIVO_AQUI.png)
+![Maratona dos Ancestrais](dota-maratona.png)
 
 ### Crônica da Prova:
 > O clima no Bosque dos Ancestrais parecia ideal para bater recorde pessoal: 16°C, asfalto seco e nenhuma criatura neutra bloqueando o trajeto. No entanto, trocar as botas de teletransporte por supertênis com placa de carbono provou ser o maior teste de sanidade física que a defesa dos Anciões já testemunhou.
