@@ -7,8 +7,8 @@ Uma exploração cômica e criativa de como seria se os heróis de Dota 2 trocas
 Criar um crossover com alto nível de detalhe unindo universo esportivo (corrida de rua) e o universo gamer de Dota 2, explorando ferramentas de IA generativa para texto e imagem.
 
 ## 🛠️ Tecnologias Utilizadas
-- **IA Generativa de Imagem:** [Nome da ferramenta que você usou, ex: Bing Image Creator / Midjourney]
-- **IA Generativa de Texto:** [Nome da ferramenta que você usou, ex: ChatGPT / Gemini]
+- **IA Generativa de Imagem:** Microsoft Designer
+- **IA Generativa de Texto:** Gemini
 
 ## 💭 Processo de Criação
 1. Definição do conceito: unir dois hobbies reais (Dota 2 e corrida).
