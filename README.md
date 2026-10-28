@@ -9,6 +9,7 @@ Criar um crossover com alto nível de detalhe unindo universo esportivo (corrida
 ## 🛠️ Tecnologias Utilizadas
 - **IA Generativa de Imagem:** Microsoft Designer
 - **IA Generativa de Texto:** Gemini
+- **Agente:** Google Antigravity
 
 ## 💭 Processo de Criação
 1. Definição do conceito: unir dois hobbies reais (Dota 2 e corrida).
